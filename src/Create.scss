@@ -1,0 +1,10 @@
+$myColor: red;
+$myfont: 50px;
+$myback: lightblue;
+$sizeW: 50%;
+h1{
+    color: $myColor;
+    font-size: $myfont;
+    background-color: $myback;
+    width: $sizeW;
+}
